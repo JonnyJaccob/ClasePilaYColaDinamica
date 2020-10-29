@@ -1,0 +1,9 @@
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\bin\Debug\netstandard2.0\ClasePilaYColaDinamica.deps.json
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\bin\Debug\netstandard2.0\ClasePilaYColaDinamica.dll
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\bin\Debug\netstandard2.0\ClasePilaYColaDinamica.pdb
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.csprojAssemblyReference.cache
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.AssemblyInfoInputs.cache
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.AssemblyInfo.cs
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.dll
+C:\Users\jacco\source\repos\ClasePilaYColaDinamica\obj\Debug\netstandard2.0\ClasePilaYColaDinamica.pdb
