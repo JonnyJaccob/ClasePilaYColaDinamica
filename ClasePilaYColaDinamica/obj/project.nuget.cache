@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TEoUEW6Ux92cfD8kbwnejoglWMo+ziAkzs8D386ZXVfddG0q+KclffYuzLOWhXUu8QSS8rlIVs+Y3h2tCheUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacco\\source\\repos\\ClasePilaYColaDinamica\\ClasePilaYColaDinamica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jacco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
